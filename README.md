@@ -5,6 +5,6 @@
 - **Contact 📨** - check my github profile
 ---
 
-> "Start with what is right rather than what is acceptable."
+> "Peace cannot be kept by force. It can only be achieved by understanding."
 
-*- Franz Kafka*
+*- Albert Einstein*
