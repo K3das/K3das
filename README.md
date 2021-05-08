@@ -5,6 +5,6 @@
 - **Contact 📨** - check my github profile
 ---
 
-> "There are three faithful friends - an old wife, an old dog, and ready money."
+> "We can change our lives. We can do, have, and be exactly what we wish."
 
-*- Benjamin Franklin*
+*- Tony Robbins*
