@@ -5,6 +5,6 @@
 - **Contact 📨** - check my github profile
 ---
 
-> "Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary."
+> "Ignorance never settle a question."
 
-*- Margaret Cousins*
+*- Benjamin Disraeli*
