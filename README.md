@@ -5,6 +5,6 @@
 - **Contact 📨** - check my github profile
 ---
 
-> "Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible."
+> "I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me."
 
-*- Maya Angelou*
+*- Woody Allen*
