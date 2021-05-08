@@ -5,6 +5,6 @@
 - **Contact 📨** - check my github profile
 ---
 
-> "I believe that every person is born with talent."
+> "He that is giddy thinks the world turns round."
 
-*- Maya Angelou*
+*- William Shakespeare*
