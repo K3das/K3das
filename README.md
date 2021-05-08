@@ -5,6 +5,6 @@
 - **Contact 📨** - check my github profile
 ---
 
-> "Peace cannot be kept by force. It can only be achieved by understanding."
+> "The secret of success is constancy to purpose."
 
-*- Albert Einstein*
+*- Benjamin Disraeli*
