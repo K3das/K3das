@@ -5,6 +5,6 @@
 - **Contact 📨** - check my github profile
 ---
 
-> "The secret of success is constancy to purpose."
+> "All our knowledge has its origins in our perceptions."
 
-*- Benjamin Disraeli*
+*- Leonardo da Vinci*
