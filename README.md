@@ -5,6 +5,6 @@
 - **Contact 📨** - check my github profile
 ---
 
-> "He that is giddy thinks the world turns round."
+> "How is it possible to find meaning in a finite world, given my waist and shirt size?"
 
-*- William Shakespeare*
+*- Woody Allen*
