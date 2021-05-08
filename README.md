@@ -5,6 +5,6 @@
 - **Contact 📨** - check my github profile
 ---
 
-> "People don't notice whether it's winter or summer when they're happy."
+> "Start with what is right rather than what is acceptable."
 
-*- Anton Chekhov*
+*- Franz Kafka*
