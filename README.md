@@ -5,6 +5,6 @@
 - **Contact 📨** - check my github profile
 ---
 
-> "There are no strangers here; Only friends you haven't yet met."
+> "Do one thing every day that scares you."
 
-*- William Butler Yeats*
+*- Eleanor Roosevelt*
