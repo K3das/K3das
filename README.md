@@ -5,6 +5,6 @@
 - **Contact 📨** - check my github profile
 ---
 
-> "We can change our lives. We can do, have, and be exactly what we wish."
+> "There are no strangers here; Only friends you haven't yet met."
 
-*- Tony Robbins*
+*- William Butler Yeats*
