@@ -5,6 +5,6 @@
 - **Contact 📨** - check my github profile
 ---
 
-> "Friendship with oneself is all important because without it one cannot be friends with anybody else in the world."
+> "Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible."
 
-*- Eleanor Roosevelt*
+*- Maya Angelou*
