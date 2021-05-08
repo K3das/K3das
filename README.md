@@ -5,6 +5,6 @@
 - **Contact 📨** - check my github profile
 ---
 
-> "All action results from thought, so it is thoughts that matter."
+> "Friendship with oneself is all important because without it one cannot be friends with anybody else in the world."
 
-*- Sai Baba*
+*- Eleanor Roosevelt*
