@@ -5,6 +5,6 @@
 - **Contact 📨** - check my github profile
 ---
 
-> "We never live; we are always in the expectation of living."
+> "Motivation is the art of getting people to do what you want them to do because they want to do it."
 
-*- Voltaire*
+*- Dwight D. Eisenhower*
