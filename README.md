@@ -5,6 +5,6 @@
 - **Contact 📨** - check my github profile
 ---
 
-> "Do one thing every day that scares you."
+> "If you light a lamp for somebody, it will also brighten your path."
 
-*- Eleanor Roosevelt*
+*- Buddha*
