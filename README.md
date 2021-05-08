@@ -5,6 +5,6 @@
 - **Contact 📨** - check my github profile
 ---
 
-> "This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature."
+> "There is only one happiness in life, to love and be loved."
 
-*- Don DeLillo*
+*- George Sand*
