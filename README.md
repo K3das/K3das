@@ -5,6 +5,6 @@
 - **Contact 📨** - check my github profile
 ---
 
-> "I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex."
+> "There are three faithful friends - an old wife, an old dog, and ready money."
 
-*- Kurt Vonnegut*
+*- Benjamin Franklin*
