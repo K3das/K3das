@@ -1,10 +1,10 @@
 # Hi there 👋
 
-- **Pronouns 😺** - he/him/they/them
+- **Pronouns 😺** - they/them
 - **Languages & Frameworks 💻** - react/node/python
 - **Contact 📨** - check my github profile
 ---
 
-> "I have not failed. I've just found 10,000 ways that won't work."
+> "All action results from thought, so it is thoughts that matter."
 
-*- Thomas Edison*
+*- Sai Baba*
