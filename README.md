@@ -5,6 +5,6 @@
 - **Contact 📨** - check my github profile
 ---
 
-> "There is only one happiness in life, to love and be loved."
+> "I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex."
 
-*- George Sand*
+*- Kurt Vonnegut*
