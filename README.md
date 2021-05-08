@@ -1,10 +1,10 @@
 # Hi there 👋
 
-- **Pronouns 😺** - they/them
+- **Pronouns 😺** - he/him/they/them
 - **Languages & Frameworks 💻** - react/node/python
 - **Contact 📨** - check my github profile
 ---
 
-> "How is it possible to find meaning in a finite world, given my waist and shirt size?"
+> "I have not failed. I've just found 10,000 ways that won't work."
 
-*- Woody Allen*
+*- Thomas Edison*
