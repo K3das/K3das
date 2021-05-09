@@ -1,10 +1,10 @@
 # Hi there 👋
 
-- **Pronouns 😺** - they/them
+- **Pronouns 😺** - she/her/they/them
 - **Languages & Frameworks 💻** - react/node/python
 - **Contact 📨** - check my github profile
 ---
 
-> "I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me."
+> "The greatest good you can do for another is not just share your riches, but reveal to them their own."
 
-*- Woody Allen*
+*- Benjamin Disraeli*
