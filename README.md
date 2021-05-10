@@ -1,10 +1,10 @@
 # Hi there 👋
 
-- **Pronouns 😺** - they/them
+- **Pronouns 😺** - he/him/they/them
 - **Languages & Frameworks 💻** - react/node/python
 - **Contact 📨** - check my github profile
 ---
 
-> "I can't imagine a person becoming a success who doesn't give this game of life everything hes got."
+> "I will give you a definition of a proud man: he is a man who has neither vanity nor wisdom one filled with hatreds cannot be vain, neither can he be wise."
 
-*- Walter Cronkite*
+*- John Keats*
