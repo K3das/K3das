@@ -1,10 +1,10 @@
 # Hi there 👋
 
-- **Pronouns 😺** - they/them
+- **Pronouns 😺** - she/her/they/them
 - **Languages & Frameworks 💻** - react/node/python
 - **Contact 📨** - check my github profile
 ---
 
-> "Marriage is the highest state of friendship. If happy, it lessens our cares by dividing them, at the same time that it doubles our pleasures by mutual participation."
+> "Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you."
 
-*- Samuel Richardson*
+*- Julie Morgenstern*
