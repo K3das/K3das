@@ -5,6 +5,6 @@
 - **Contact 📨** - check my github profile
 ---
 
-> "I have learned that to be with those I like is enough."
+> "If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own."
 
-*- Walt Whitman*
+*- Johann Wolfgang von Goethe*
