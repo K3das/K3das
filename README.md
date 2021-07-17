@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- **Pronouns 😺** - she/her/they/them
+- **Pronouns 😺** - she/her
 - **Languages & Frameworks 💻** - react/node/python
 - **Contact 📨** - check my github profile
 ---
