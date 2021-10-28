@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - **Pronouns 😺** - she/her
-- **Languages & Frameworks 💻** - react/node/python
+- **Languages, Frameworks & Other 💻** - react/node/python/golang/docker/grpc/protobufs/k8s
 - **Contact 📨** - check my github profile
 ---
 
